@@ -1,4 +1,3 @@
-Shrink this from 500 charecters to less than 350
 
 Hi there, I'm Seshank! 👋
 
