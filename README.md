@@ -5,7 +5,7 @@ Welcome to my GitHub space! I'm a high school student who likes turning ideas in
 
 Since I use GitHub purely for the joy of creating, you'll find a mix of random experiments here
 
-🔭 **Active Project** : [Printathon] - An end to end 3d print model AI shop that reduces the complexity and learning behind 3d modeling and customization
+🔭 **Active Project** : [AeroForge] - Wing shape generation, stress testing and pressure simulator based on custom wing design application, all hosted online, nothing to download.
 
 🌱 **Learning:** Currently diving deeper into vibe coding and agentic tools.
 
