@@ -11,4 +11,4 @@ Since I use GitHub purely for the joy of creating, you'll find a mix of random e
 
 💬 **Let's connect**: seshank.b001@gmail.com  https://seshankbagavath.github.io/personal-site/
 
-**Check Out My Builds**:  https://seshankbagavath.github.io/AeroForge/  https://seshankbagavath.github.io/satellite-orbit-simulator/  https://github.com/seshankbagavath/FactorForge/blob/main/README.md
+**Check Out My Builds**:  https://seshankbagavath.github.io/AeroForge/  https://seshankbagavath.github.io/satellite-orbit-simulator/  https://seshankbagavath.github.io/FactorForge/ 
